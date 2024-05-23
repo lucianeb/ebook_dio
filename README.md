@@ -53,4 +53,14 @@ Clique aqui pare ler o ebook [Inteligência Artificial na Medicina : Transforman
       <td>Geração de Imagem para Capa</td>
       <td>Create a photorealistic image portraying a 40-year-old doctor, his striking green eyes fixed on a state-of-the-art computer screen in a futuristic radiology department. His tousled blonde hair frames a face of timeless beauty, short hair, radiating confidence and charm. Draped in a crisp white doctor's coat adorned with a dark tie, he epitomizes professional elegance. In front of  him, the big computer's screen serves as a gateway to the fantastical, showcasing the emergence of a luminous artificial intelligence human pet scan from within its depths of a neural network. This ethereal figure blends seamlessly with the tangible world, embodying the convergence of cutting-edge technology and the timeless art of healing. Through this image, capture the harmonious union of man and artificial intelligence, inviting viewers to explore a realm where imagination transcends boundaries of neural network scene in molecular image department.</td>
     </tr>
+</table>
+
+## 🛠 Features
+- Conteúdo gerado via ChatGPT
+- Imagens geradas via MidJourney
+
+## 🌐 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciane-boanova-534b7728/) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:lurutilae@gmail.com)
+
 
