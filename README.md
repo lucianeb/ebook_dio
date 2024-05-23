@@ -2,7 +2,7 @@
     <span> Projeto de EBOOK do Curso de Fundamentos de IA para DEVs da DIO</span>
 </h1>
 
-Clique aqui pare ler o ebook [Inteligência Artificial na Medicina : Transformando a área da saúde](https://www.dio.me/).
+Clique aqui pare ler o ebook [Inteligência Artificial na Medicina : Transformando a área da saúde](https://github.com/lucianeb/ebook_dio/blob/main/ebook_ai.pdf)).
 
 ## Tecnologias utilizadas no projeto
 - <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/openai.svg" alt="ChatGPT" width="40" height="40"/> ChatGPT
