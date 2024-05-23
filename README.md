@@ -11,4 +11,32 @@ Clique aqui pare ler o ebook [Inteligência Artificial na Medicina : Transforman
   
 - <img src="https://raw.githubusercontent.com/lucianeb/ebook_dio/main/midjourney.svg" alt="MidJourney" width="40" height="40"/> MidJourney
 
-## Ferramentas
+
+
+## Percurso
+<table>
+  <thead>
+    <tr align="left">
+      <th>Nº</th>
+      <th>Etapas</th>
+    </tr>
+  </thead>
+  <tbody align="left">
+    <tr>
+      <td>01</td>
+      <td>Introdução ao Lab</td>
+    </tr>
+    <tr>
+      <td>02</td>
+      <td>Formas de Contribuir num Projeto Open Source</td>
+    </tr>
+    <tr>
+      <td>03</td>
+      <td>Desenvolvendo e Enviando uma Contribuição</td>  
+    </tr>
+    <tr>
+      <td>04</td>
+      <td>Dicas e Materiais de Apoio</td>    
+    </tr>
+  </tbody>
+</table>
