@@ -11,7 +11,7 @@ Clique aqui pare ler o ebook [Inteligência Artificial na Medicina : Transforman
   
 - <img src="https://raw.githubusercontent.com/lucianeb/ebook_dio/main/midjourney.svg" alt="MidJourney" width="40" height="40"/> MidJourney
 
-## ChatGPT :
+## ChatGPT : IA Generativa para criação do título, roteirização e conteúdo
 <table>
   <thead>
     <tr align="left">
@@ -40,7 +40,7 @@ Clique aqui pare ler o ebook [Inteligência Artificial na Medicina : Transforman
         </tbody>
 </table>
 
-## MidJourney :
+## MidJourney : IA Generativa para criar a arte visual do e-book
 <table>
   <thead>
     <tr align="left">
