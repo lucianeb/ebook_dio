@@ -2,6 +2,9 @@
     <span> Projeto de EBOOK do Curso de Fundamentos de IA para DEVs da DIO</span>
 </h1>
 
+## 📒 Descrição
+Este e-book páginas explora o impacto revolucionário da Inteligência Artificial na Medicina.
+
 Clique aqui pare ler o ebook [Inteligência Artificial na Medicina : Transformando a área da saúde](https://github.com/lucianeb/ebook_dio/blob/main/ebook_ai.pdf)).
 
 ## Tecnologias utilizadas no projeto
@@ -10,6 +13,9 @@ Clique aqui pare ler o ebook [Inteligência Artificial na Medicina : Transforman
 - <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/canva.svg" alt="Canva" width="40" height="40"/> Canva
   
 - <img src="https://raw.githubusercontent.com/lucianeb/ebook_dio/main/midjourney.svg" alt="MidJourney" width="40" height="40"/> MidJourney
+
+## 🧐 Processo de Criação
+Utilizei o "ChatGPT" para resumir alguns artigos importantes publicados sobre o tema e estruturar o conteúdo. O "MidJourney" foi usado para gerar imagens exclusivas para o nosso e-book. Para concluir, a montagem final foi feita no Canva após uma revisão humana de conteúdo.
 
 ## ChatGPT : IA Generativa para criação do título, roteirização e conteúdo
 <table>
@@ -58,6 +64,12 @@ Clique aqui pare ler o ebook [Inteligência Artificial na Medicina : Transforman
 ## 🛠 Features
 - Conteúdo gerado via ChatGPT
 - Imagens geradas via MidJourney
+
+## 🚀 Resultados
+O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
+
+## 💭 Reflexão
+Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
 
 ## 🌐 Conecte-se comigo
 
